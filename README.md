@@ -4,7 +4,7 @@
 
 ## This is a leech to Stream(video) repo! Leech to FILE availabe here > [LEECH TO FILE](https://github.com/prgofficial/LeechToFile)
 
-
+![Deploy](https://heroku.com/deploy?template=https://github.com/akashurluploaderoffical/LeechToStream)
 
 # Benefits :-
     ✓ Telegram Torrent/Directlink leecher with its unzipping, unrar and untar
