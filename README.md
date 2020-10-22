@@ -49,6 +49,11 @@ class Config(Config):
   AUTH_CHANNEL = -1001234567890
 ```
 
+![Deploy](https://heroku.com/deploy?template=https://github.com/prgofficial/LeechToStream)
+
+
+
+
 
 ## Available Commands
 
