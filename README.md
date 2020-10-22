@@ -13,7 +13,7 @@
 	✓ Added /clearall command to clear the downloads which are not deleted automatically.
 	✓ Added support for youtube playlist ( use /pytdl )
 
-
+![Deploy](https://heroku.com/deploy?template=https://github.com/prgofficial/LeechToStream)
 ### Credit goes to SpEcHiDe for his [Publicleech](https://github.com/SpEcHiDe/PublicLeech) repo
 
 ### Thank [Gautam Kumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) for the added Cool features 🤩
