@@ -5,9 +5,6 @@
 ## This is a leech to Stream(video) repo! Leech to FILE availabe here > [LEECH TO FILE](https://github.com/prgofficial/LeechToFile)
 
 
-### For Support join here [InFoTelGroup](https://telegram.dog/InFoTelGroup)
-### Working example group -->> [PROleecher](https://telegram.dog/PROleecher)
-
 
 # Benefits :-
     ✓ Telegram Torrent/Directlink leecher with its unzipping, unrar and untar
@@ -76,3 +73,9 @@ class Config(Config):
 * [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
 * [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
 * [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
+
+
+
+
+
+![Deploy](https://heroku.com/deploy?template=https://github.com/akashurluploaderoffical/LeechToStream)
